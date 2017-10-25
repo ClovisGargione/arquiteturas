@@ -17,10 +17,9 @@ import javax.ws.rs.core.MediaType;
 @Path("/helloworld")
 public class HelloWorld {
     
-        @GET
-	@Path("hello")
-        @Produces(MediaType.TEXT_PLAIN)
-	public String signup() {
+    @GET
+    @Produces({MediaType.TEXT_PLAIN})
+	public String hello() {
             return "Olá mundo REST!";
 	}
 }

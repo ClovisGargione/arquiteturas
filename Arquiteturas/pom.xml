@@ -10,5 +10,6 @@
     </properties>
   <modules>
     <module>RestFull</module>
+    <module>JDBCConnection</module>
   </modules>
 </project>
