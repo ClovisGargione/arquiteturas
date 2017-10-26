@@ -21,7 +21,7 @@ public class TestMain {
     public static void main(String[] args){
         User user = new User();
         UserFacade facade = new UserFacade();
-         user.setEmail("clovis@gmail.com");
+         user.setEmail("clovis.rodrigues@gmail.com");
         user.setPassword("123456");
         try {
             EntityManager em = JPAUtil.getEntityManager();

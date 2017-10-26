@@ -5,9 +5,9 @@
     <class>model.User</class>
     <exclude-unlisted-classes>false</exclude-unlisted-classes>
     <properties>
-     <property name="hibernate.connection.driver_class" value="org.postgresql.Driver"/>
-     <property name="hibernate.connection.password" value="123456"/>
-      <property name = "hibernate.connection.username" value="clovis" />
+      <property name="hibernate.connection.driver_class" value="org.postgresql.Driver"/>
+      <property name="hibernate.connection.password" value="123456"/>
+      <property name="hibernate.connection.username" value="clovis"/>
       <property name="hibernate.connection.url" value="jdbc:postgresql://localhost:5432/postgres?autoReconnect=true"/>
       <property name="hibernate.dialect" value="org.hibernate.dialect.PostgreSQL9Dialect"/>
       <property name="hibernate.hbm2ddl.auto" value="update"/>

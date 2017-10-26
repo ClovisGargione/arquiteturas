@@ -3,3 +3,4 @@
 /.metadata/
 /Arquiteturas/JDBCConnection/target/
 /Arquiteturas/JPA/target/
+/Arquiteturas/QueryDsl/target/

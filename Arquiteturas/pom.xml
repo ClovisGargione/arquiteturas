@@ -12,5 +12,6 @@
     <module>RestFull</module>
     <module>JDBCConnection</module>
     <module>JPA</module>
+    <module>QueryDsl</module>
   </modules>
 </project>
