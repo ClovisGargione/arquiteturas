@@ -19,8 +19,8 @@ import java.util.logging.Logger;
 public class JDBCConnection {
     private final String driver = "org.postgresql.Driver";
     private static final String url = "jdbc:postgresql://localhost:5432/postgres";
-        String user = "clovis";
-        String password = "123456";
+    private static final String user = "clovis";
+    private static final String password = "123456";
 	
 	public JDBCConnection(){}
 	
