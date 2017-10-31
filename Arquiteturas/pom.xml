@@ -14,5 +14,6 @@
     <module>JPA</module>
     <module>QueryDsl</module>
     <module>JavaApplication1/CDISE</module>
+    <module>CDI</module>
   </modules>
 </project>
