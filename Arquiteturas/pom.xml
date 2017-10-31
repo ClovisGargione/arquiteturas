@@ -13,5 +13,6 @@
     <module>JDBCConnection</module>
     <module>JPA</module>
     <module>QueryDsl</module>
+    <module>JavaApplication1/CDISE</module>
   </modules>
 </project>
